@@ -3,7 +3,7 @@
 
 ##Installation du projet
 
-#sur votre terminal taper 
+#sur votre terminal tapez
 
 - npm init -y
 - tsc --init
